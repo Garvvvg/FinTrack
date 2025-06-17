@@ -3,23 +3,25 @@
 Money-Manager is a web-based expense tracking application that helps users take control of their finances and work towards financial goals. With features like financial target setting, transaction tracking, and visual analytics, it provides a simple yet powerful interface to manage income and expenses effectively.
 
 🔧 Features:
-User authentication (Sign Up / Login)
 
-Set monthly or custom financial targets for income & expenses
+-User authentication (Sign Up / Login)
 
-Track all transactions and maintain cash flow visibility
+-Set monthly or custom financial targets for income & expenses
 
-Download transaction history in one click
+-Track all transactions and maintain cash flow visibility
 
-Visualize spending patterns through interactive charts
+-Download transaction history in one click
 
-Export charts for future reference
+-Visualize spending patterns through interactive charts
 
-Upload bill receipts for better recordkeeping
+-Export charts for future reference
 
-Keep personal notes and reminders
+-Upload bill receipts for better recordkeeping
+
+-Keep personal notes and reminders
 
 🛠 Tech Stack:
-Backend: Node.js, Express.js, MongoDB (Mongoose)
 
-Frontend: EJS, Bootstrap
+-Backend: Node.js, Express.js, MongoDB (Mongoose)
+
+-Frontend: EJS, Bootstrap
