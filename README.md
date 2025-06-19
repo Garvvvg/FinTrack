@@ -2,26 +2,51 @@
 
 FinTrack is a web-based expense tracking application that helps users take control of their finances and work towards financial goals. With features like financial target setting, transaction tracking, and visual analytics, it provides a simple yet powerful interface to manage income and expenses effectively.
 
-🔧 Features:
+---
 
--User authentication (Sign Up / Login)
+## Features
 
--Set monthly or custom financial targets for income & expenses
+- User authentication (Sign Up / Login)
+- Set monthly or custom financial targets for income and expenses
+- Track all transactions and maintain cash flow visibility
+- Download transaction history in one click
+- Visualize spending patterns through interactive charts
+- Export charts for future reference
+- Upload bill receipts for better recordkeeping
+- Keep personal notes and reminders
 
--Track all transactions and maintain cash flow visibility
+---
 
--Download transaction history in one click
+## Tech Stack
 
--Visualize spending patterns through interactive charts
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB (Mongoose)
 
--Export charts for future reference
+**Frontend:**
+- EJS
+- Bootstrap
 
--Upload bill receipts for better recordkeeping
+---
+## How to Run
 
--Keep personal notes and reminders
+1. Clone the repository
 
-🛠 Tech Stack:
+```bash
+git clone https://github.com/Garvvvg/FinTrack
+cd FinTrack
 
--Backend: Node.js, Express.js, MongoDB (Mongoose)
+   ```
 
--Frontend: EJS, Bootstrap
+2. Install dependencies.
+
+   ```bash
+   npm install
+
+   ```
+
+3. Start Development server.
+   ```bash
+   npm start
+   ```
